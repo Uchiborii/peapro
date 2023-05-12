@@ -1,0 +1,91 @@
+html {
+    font-size: 95.5%;
+  }
+  
+  body {
+    width: 980px;
+    margin: 0 auto;
+    background-image: url("../image/mail.png");
+    background-size: cover;
+    background-attachment: fixed;
+  }
+ 
+  
+  input.text{
+    width: 480px;
+  }
+  
+  .text{
+    width: 480px;
+  }
+  
+
+  
+  .content th{   
+    height: 7rem;
+    width: 150px;
+  }
+  
+  
+  th {
+    text-align: right;
+    padding: 0px 10px 0px 0px;
+  }
+
+
+  .botton {
+    font-size: 1.5rem;
+    background-color: #eec1d4;
+    color:white
+
+  }
+
+  .botton:hover{
+    opacity: 0.5 ;
+  }
+
+  .botton {
+    padding:  5pt;
+    display: block;
+    margin: 30px;
+    margin-left: 660px;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+ .contact {
+    padding-left: 200px;
+    line-height: 4;
+
+
+ }
+
+ input {
+    background-color: #eee1c1;
+    height: 40px;
+
+ }
+
+ textarea {
+    background-color: #eee1c1;
+    resize: vertical;
+    width:450px;
+    height:10rem;
+ }
+
+ .photo{
+    position: relative;
+  }
+
+  .top-right {
+    position: absolute;
+
+  }
+
+
+  p.photo img {
+    width: 170px;
+    padding-top: 60px;
+    padding-left: 900px;
+}
+
